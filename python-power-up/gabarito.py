@@ -26,7 +26,7 @@ time.sleep(3)
 # selecionar o campo de email
 pyautogui.click(x=685, y=451)
 # escrever o seu email
-pyautogui.write("pythonimpressionador@gmail.com")
+pyautogui.write("a")
 pyautogui.press("tab") # passando pro próximo campo
 pyautogui.write("sua senha")
 pyautogui.click(x=955, y=638) # clique no botao de login
