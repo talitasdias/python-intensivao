@@ -16,4 +16,4 @@ def homepage():
 
 
 # Rodar o app
-socketio.run(app, host="192.168.1.6")
+socketio.run(app, host="https://talitasdias.github.io/python-intensivao/python-dev/templates/homepage.html")
